@@ -1,4 +1,5 @@
-# 📊 Dashboard de Gestão Educacional - APAE Serra Talhada
+# 📊 Dashboard de Gestão Educacional - APAE Serra Talhada 
+[Para acessar o dashboard click aqui](https://app.powerbi.com/view?r=eyJrIjoiODM0ZTNjNDMtOTk3ZC00OGVlLWI2MWYtZjNhMTc2YjQ3MTg2IiwidCI6ImE2Zjc0ZWZhLTM2NzQtNDQ5YS1hY2FlLWMwYTIzODYzNzUwNCJ9&pageName=fa96e6fa00289309878e)
 
 ## 📝 Sobre o Projeto
 Este projeto foi desenvolvido para o setor de educação da APAE em Serra Talhada, como parte da disciplina de Sistemas de Apoio à Decisão (SAD). O objetivo foi transformar dados brutos de planilhas exportadas do sistema ARGOS em inteligência estratégica para a tomada de decisão pedagógica e administrativa.
@@ -47,12 +48,13 @@ Este projeto foi desenvolvido para o setor de educação da APAE em Serra Talhad
 Filtros Dinâmicos: Segmentação por período, status do atendido, faixa etária .
 
 
-📐 Estrutura do Repositório
+## 📐 Estrutura do Repositório
 
 - /capturas: Contém o arquivo .png das telas do BI e fluxo de ETL.
 
 - /projeto: contem o etl Scripts realizado no Pentaho.
 
+## [Para acessar o dashboard click aqui](https://app.powerbi.com/view?r=eyJrIjoiODM0ZTNjNDMtOTk3ZC00OGVlLWI2MWYtZjNhMTc2YjQ3MTg2IiwidCI6ImE2Zjc0ZWZhLTM2NzQtNDQ5YS1hY2FlLWMwYTIzODYzNzUwNCJ9&pageName=fa96e6fa00289309878e)
 
 👤 Autor
 Wagner Santos Estudante de Sistemas de Informação | Apaixonado por Dados e Tecnologia.
