@@ -3,6 +3,14 @@
 ## 📝 Sobre o Projeto
 Este projeto foi desenvolvido para o setor de educação da APAE em Serra Talhada, como parte da disciplina de Sistemas de Apoio à Decisão (SAD). O objetivo foi transformar dados brutos de planilhas exportadas do sistema ARGOS em inteligência estratégica para a tomada de decisão pedagógica e administrativa.
 
+## Imagens de algumas telas do Dashboard
+- Tela de menu 
+![Alt text](capturas/menu_bi_apae.png)
+- Tela de atendimento por período 
+![Alt text](capturas/atendimento_por_periodo.png)
+- Tela do panorama sociodemográfico dos atendidos
+![Alt text](capturas/panorama_dos_atendidos.png)
+
 ## 🛠️ Tecnologias e Ferramentas
 Pentaho Data Integration (PDI): Utilizado para o processo de ETL (Extração, Transformação e Carga).
 
@@ -27,8 +35,6 @@ Visão Geral: Panorama total atendidos ativos e atendimentos.
 Análise por Profissional e Período: Identificação de gargalos ou e quantidade individual de atendidos por proficional.
 
 Filtros Dinâmicos: Segmentação por período, status do atendido, faixa etária .
-
-## Fluxo de ETL
 
 
 📐 Estrutura do Repositório
